@@ -47,6 +47,10 @@ If the german keyboard is not desired, comment the following line in the vagrant
 ````
 # config.vm.provision "shell", path: "install/changetogerman.sh"
 ````
+If the gnome desktop is not desired, comment the following line in the vagrant file
+````
+# config.vm.provision "shell", path: "install/gnome.sh"
+````
 
 ```
 cd ../../
@@ -82,3 +86,11 @@ Start the SAP system:
 **Post and optional installation steps**
 
 Additional informations, License key and first steps follow [SAP NW AS ABAP 7.50 SP2 – Developer Edition to Download: Concise Installation Guide](https://blogs.sap.com/2016/11/03/sap-nw-as-abap-7.50-sp2-developer-edition-to-download-consise-installation-guide/)
+
+Start/Stop the VBox with:
+````
+vagrant up
+vagrant halt
+````
+or with the virtualbox UI.
+![Oracle_VM_VirtualBox_Manager](./img/Oracle_VM_VirtualBox_Manager.jpg)
