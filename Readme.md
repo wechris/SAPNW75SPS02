@@ -69,7 +69,7 @@ Login: vagrant/vagrant.
 
 **Install SAP NW AS ABAP 750 SP02 Developer Edition**
 
-The files and folder, on the same level as the vagrant file, will be avaiable under /vagrant
+The files and folder, on the same level as the vagrant file, will be available under /vagrant
 ````
 sudo -i
 <enter pwd>
