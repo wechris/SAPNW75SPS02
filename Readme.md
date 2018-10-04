@@ -4,7 +4,7 @@ This repository stores a [Packer](https://www.packer.io) definitions of openSUSE
  
 The openSUSE Leap 42.1 box can be used to create a VirtualBox instance with Vagrant to install [SAP NW AS ABAP 750 SP02 Developer Edition](https://blogs.sap.com/2016/11/03/sap-nw-as-abap-750-sp02-developer-edition-to-download/?preview_id=391853) .
  
- ## Please also take a look at my second project SAPNW751SPS02## 
+ ## Please also take a look at my second project SAPNW751SPS02
  [wechris/SAPNW751SPS02](https://github.com/wechris/SAPNW751SPS02)
  
  All recommended system preparations will be done by packer and vagrant, as described at [Installing ABAP AS on Oracle VirtualBox](https://blogs.sap.com/2016/11/03/linux-for-newbies-installing-opensuse-on-oracle-virtualbox/?preview_id=391946) without the proxy part (step 11.).
