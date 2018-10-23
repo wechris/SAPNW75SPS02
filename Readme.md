@@ -6,7 +6,7 @@ The openSUSE Leap 42.1 box can be used to create a VirtualBox instance with Vagr
  
  # no maintenance anymore
  
- ## Please also take a look at the new project SAPNW752SP01
+ ## Please take a look at the new project SAPNW752SP01
  [wechris/SAPNW752SP01](https://github.com/wechris/SAPNW752SP01)
  
  All recommended system preparations will be done by packer and vagrant, as described at [Installing ABAP AS on Oracle VirtualBox](https://blogs.sap.com/2016/11/03/linux-for-newbies-installing-opensuse-on-oracle-virtualbox/?preview_id=391946) without the proxy part (step 11.).
